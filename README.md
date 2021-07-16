@@ -1,3 +1,3 @@
-# Me.teo user-contributed issues
+# Me.teo User Community
 
-This public repository allows Me.teo users to report bugs and feature requests.
+This public repository is a gathering place for Me.teo users to discuss ideas and report bugs.
